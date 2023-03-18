@@ -12,6 +12,8 @@ Program usage are as follows :
 3. To add a new set of data to the linkedlist.
 4. To remove a set of data to the linkedlist but it is optional.
 
+class and node are the mainly used elements
+
 Outputs are shown below :
 
 ![image](https://user-images.githubusercontent.com/52618701/225946272-a1e5d2f7-ef22-4a78-8d75-677fb062d1e9.png)
